@@ -1,0 +1,16 @@
+path: G:/wb/object-detect/rgb
+train: train-win.txt
+val: val-win.txt
+test: test-win.txt
+
+# Classes
+names:
+  0: zw
+  1: gs
+  2: xws
+  3: gsyc
+  4: dk
+  5: pp
+  6: qk
+  7: zk
+  8: yx
